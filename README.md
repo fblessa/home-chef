@@ -228,7 +228,7 @@ Afora outros requisitos do projeto, fiquei responsável também pela estilizaç�
     62 – Redirecione a pessoa usuária de modo que, ao clicar no botão Logout, o localStorage seja limpo e a rota mude para a tela de login
   
 </details>
-<br>
+
 <hr>
 
 ##### EN 🇬🇧/🇺🇸
