@@ -9,7 +9,7 @@ Afora outros requisitos do projeto, fiquei responsável também pela estilizaç�
 - Test-driven development (<i>TDD</i>)
 - React.js + Vite
 - TypeScript
-- ContextAPI
+- Redux
 - CSS
 
 ## 🖼️ Imagens
