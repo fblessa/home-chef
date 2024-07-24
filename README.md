@@ -2,7 +2,7 @@
 ##### PT.BR 🇧🇷
 Esse é um projeto colaborativo de desenvolvimento front-end do **Home Chef**, um aplicativo de receitas de comidas e bebidas. <br>
 Nele, é possível acessar receitas de inúmeras formas: através de filtros, de pesquisa por nome ou através de categorias. Além disso, é possível acessar o passo-a-passo da receita à medida que você a executa. Após concluída, essa receita fica guardada em um coleção pessoal. No Home Chef, você também pode favoritar receitas para fazer mais tarde. <br><br>
-Além de mim, participaram desse projeto: **[Lina Hsu](https://github.com/linahsu)**, **[Fábio Lessa](https://github.com/fblessa)**, **[Emilly Alves](https://github.com/ellyalvescosta)** e **[Eudes Andrade](https://github.com/andradeeudes)**. <br>
+Além de mim, participaram desse projeto: **[Lina Hsu](https://github.com/linahsu)**, **[Felipe Brandão](https://github.com/bran-do)**, **[Emilly Alves](https://github.com/ellyalvescosta)** e **[Eudes Andrade](https://github.com/andradeeudes)**. <br>
 Afora outros requisitos do projeto, fiquei responsável também pela estilização do aplicativo, que me desafiei a fazer em CSS puro! 🙂
 
 ##### Tecnologias utilizadas:
